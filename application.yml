@@ -1,4 +1,5 @@
-greeting.message=Hellow World GIT REPO
+greeting.message: Hellow World GIT REPO
 
-app.name=GIT Data Solutions
-app.description=Welcome to ${app.name}
+app:
+  name: GIT Data Solutions
+  description: Welcome to ${app.name}
