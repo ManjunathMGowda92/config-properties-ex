@@ -1,0 +1,6 @@
+greeting:
+   message: Hellow World GIT REPOSITORY
+
+app:
+  name: Customer GIT Data Solutions
+  description: Welcome to ${app.name}
