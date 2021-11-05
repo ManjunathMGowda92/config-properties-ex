@@ -1,5 +1,5 @@
 greeting.message: Hellow World GIT REPO
 
 app:
-  name: GIT Data Solutions
+  name: GIT Application Data Solutions
   description: Welcome to ${app.name}
